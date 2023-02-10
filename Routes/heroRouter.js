@@ -1,7 +1,6 @@
 import express from 'express';
 import expressAsyncHandler from 'express-async-handler';
 import data from '../data.js';
-import About from '../models/aboutModel.js';
 import Hero from '../models/heroModel.js';
 
 

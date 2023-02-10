@@ -38,6 +38,7 @@ async function connect() {
         console.error(error);
     }
 }
+const port = process.env.port || 8000;
 
 connect();
 
