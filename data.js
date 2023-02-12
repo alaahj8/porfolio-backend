@@ -44,7 +44,7 @@ const data = {
     {
       name: "Top 15 Free APIs",
       image:
-        "https://c0.wallpaperflare.com/preview/1004/350/396/abstract-php-c-analytics.jpg",
+        "https://c4.wallpaperflare.com/wallpaper/67/72/30/code-programming-microsoft-visual-studio-wallpaper-preview.jpg",
     },
   ],
   contacts: [
