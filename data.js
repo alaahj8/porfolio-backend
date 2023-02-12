@@ -11,33 +11,27 @@ const data = {
   projects: [
     {
       name: "project1",
-      image:
-        "https://c1.wallpaperflare.com/preview/427/745/192/notebook-natural-laptop-macbook.jpg",
+      image:"https://c1.wallpaperflare.com/preview/427/745/192/notebook-natural-laptop-macbook.jpg",
     },
     {
       name: "project2",
-      image:
-        "https://www.teahub.io/photos/full/1-13344_2560x1600-hd-laptop-wallpapers-hd-desktop-wallpapers-laptop.jpg",
+      image:"https://c1.wallpaperflare.com/preview/411/694/389/black-business-computer-desk.jpg",
     },
     {
       name: "project3",
-      image:
-        "https://wallpaperset.com/w/full/6/e/2/461150.jpg",
+      image:"https://c1.wallpaperflare.com/preview/830/150/561/sackcloth-sackcloth-textured-laptop-ipad.jpg",
     },
     {
       name: "project4",
-      image:
-        "https://c1.wallpaperflare.com/preview/623/487/747/technology-code-coding-computer.jpg",
+      image:"https://c1.wallpaperflare.com/preview/547/595/807/business-computer-contemporary-dark.jpg",
     },
     {
       name: "project5",
-      image:
-        "https://wallpaper.dog/large/5549717.jpg",
+      image:"https://c1.wallpaperflare.com/preview/114/619/629/designer-desk-gardens-home-office.jpg",
     },
     {
       name: "project6",
-      image:
-        "https://wallpaperaccess.com/full/1317183.jpg",
+      image:"https://c1.wallpaperflare.com/preview/510/217/278/technology-business-computer-designer.jpg",
     },
   ],
 
