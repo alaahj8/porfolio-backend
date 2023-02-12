@@ -39,7 +39,7 @@ const data = {
     {
       name: "How to build a app with Node.js and Express.js",
       image:
-        "https://c4.wallpaperflare.com/wallpaper/624/21/247/microsoft-windows-windows-10-technology-hi-tech-wallpaper-preview.jpg",
+        "https://c0.wallpaperflare.com/preview/974/718/449/turned-on-macbook-pro.jpg",
     },
     {
       name: "Top 15 Free APIs",
