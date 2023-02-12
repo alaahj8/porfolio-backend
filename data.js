@@ -19,7 +19,7 @@ const data = {
     },
     {
       name: "project3",
-      image:"https://c1.wallpaperflare.com/preview/830/150/561/sackcloth-sackcloth-textured-laptop-ipad.jpg",
+      image:"https://c1.wallpaperflare.com/preview/722/538/350/interior-minimal-white-workspace.jpg",
     },
     {
       name: "project4",
